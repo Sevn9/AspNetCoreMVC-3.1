@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fies\\source\\repos\\Webgentle.BookStore\\Webgentle.BookStore\\Webgentle.BookStore.csproj",
+      "projectUniqueName": "C:\\NewProgram\\GithubRep\\AspNetCoreMVC-3.1\\Webgentle.BookStore\\Webgentle.BookStore\\Webgentle.BookStore.csproj",
       "projectName": "Webgentle.BookStore",
-      "projectPath": "C:\\Users\\Fies\\source\\repos\\Webgentle.BookStore\\Webgentle.BookStore\\Webgentle.BookStore.csproj",
+      "projectPath": "C:\\NewProgram\\GithubRep\\AspNetCoreMVC-3.1\\Webgentle.BookStore\\Webgentle.BookStore\\Webgentle.BookStore.csproj",
       "packagesPath": "C:\\Users\\Fies\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fies\\source\\repos\\Webgentle.BookStore\\Webgentle.BookStore\\obj\\",
+      "outputPath": "C:\\NewProgram\\GithubRep\\AspNetCoreMVC-3.1\\Webgentle.BookStore\\Webgentle.BookStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fies\\AppData\\Roaming\\NuGet\\NuGet.Config",

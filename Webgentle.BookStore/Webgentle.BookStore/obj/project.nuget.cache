@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TuqIug3rd0KIZueBMaZR8EcKw0ktLKNC0mz9y5JhtffO++BRAr0hrjtsmvJ/u+7LrjyJKv2aJesIAS3nvKF8UQ==",
+  "dgSpecHash": "CAtxsoxoxRcPi706j74E9r4S0dLayLcdcJqS5sE1BUXQQ+1vEIsF9sA2plQJyZw43xnc1dVFB1/OAdJkU2a2ZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fies\\source\\repos\\Webgentle.BookStore\\Webgentle.BookStore\\Webgentle.BookStore.csproj",
+  "projectFilePath": "C:\\NewProgram\\GithubRep\\AspNetCoreMVC-3.1\\Webgentle.BookStore\\Webgentle.BookStore\\Webgentle.BookStore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
